@@ -28,7 +28,7 @@
       </summary>
   
       <p class="mt-4 leading-relaxed text-gray-700">
-        RantaiKebaikan adalah platform crowdfunding yang menghubungkan individu yang peduli dengan lingkungan dengan proyek-proyek yang berdampak positif bagi alam. Kami menyediakan wadah bagi para inisiator proyek untuk mencari dana dan bagi donatur untuk berkontribusi dalam upaya pelestarian lingkungan.
+        RantaiKebaikan adalah platform crowdfunding yang menghubungkan individu yang peduli dengan lingkungan serta proyek-proyek yang berdampak positif bagi alam maupun sesama manusia. Kami menyediakan wadah bagi para inisiator proyek untuk mencari dana dan bagi donatur untuk berkontribusi dalam berbagai upaya kebaikan.
       </p>
     </details>
   
@@ -37,7 +37,7 @@
     >
       <summary class="flex cursor-pointer items-center justify-between gap-1.5">
         <h2 class="text-lg font-medium text-gray-900">
-            Apa tujuan dari RantaiKebaikan?
+            Apa tujuan dibuatnya website ini?
         </h2>
   
         <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
@@ -66,7 +66,7 @@
   >
     <summary class="flex cursor-pointer items-center justify-between gap-1.5">
       <h2 class="text-lg font-medium text-gray-900">
-        Bagaimana cara mengajukan proyek di RantaiKebaikan?
+        Bagaimana cara mengajukan proyek crowdfunding/penggalangan dana?
       </h2>
 
       <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
@@ -86,7 +86,7 @@
     </summary>
 
     <p class="mt-4 leading-relaxed text-gray-700">
-        Anda dapat mengajukan proyek melalui formulir pengajuan yang tersedia di website kami. Isilah formulir dengan lengkap dan jelas, serta sertakan proposal proyek yang rinci.
+        Anda dapat mengajukan proyek melalui formulir pengajuan yang tersedia di halaman <b>Request</b> pada website kami. Isilah formulir dengan lengkap dan jelas, serta sertakan proposal proyek crowdfunding/penggalangan dana yang rinci.
 
 
     </p>
@@ -97,7 +97,7 @@
 >
   <summary class="flex cursor-pointer items-center justify-between gap-1.5">
     <h2 class="text-lg font-medium text-gray-900">
-        Bagaimana cara berdonasi di RantaiKebaikan?
+      Apakah bisa berdonasi disini?
     </h2>
 
     <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
@@ -117,7 +117,7 @@
   </summary>
 
   <p class="mt-4 leading-relaxed text-gray-700">
-    Anda dapat berdonasi melalui berbagai metode pembayaran yang tersedia, seperti transfer bank, kartu kredit, atau dompet digital.
+    RantaiKebaikan hanya berfungsi sebagai distribusi/pihak ketiga dari beberapa proyek crowdfunding/penggalangan dana, sehingga transaksi dilakukan langsung pada pihak yang menyelenggarakan.
 
 
 

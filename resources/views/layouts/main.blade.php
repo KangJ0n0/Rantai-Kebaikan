@@ -6,6 +6,7 @@
   @vite('resources/css/app.css')
     <title>Rantai Kebaikan</title>
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <link rel="icon" href="{{ asset('favicon.ico') }}">
 </head>
 <body>
     @include('layouts.navigation')

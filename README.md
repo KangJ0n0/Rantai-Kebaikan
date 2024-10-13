@@ -37,30 +37,6 @@
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## Installation and Setup
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/RantaiKebaikan.git
-    ```
-2. Install dependencies:
-    ```bash
-    composer install
-    npm install
-    ```
-3. Set up environment variables by copying `.env.example` to `.env`:
-    ```bash
-    cp .env.example .env
-    ```
-4. Generate the application key:
-    ```bash
-    php artisan key:generate
-    ```
-5. Run migrations to set up the database:
-    ```bash
-    php artisan migrate
-    ```
-
 ## Running the Application
 
 1. Start the development server:

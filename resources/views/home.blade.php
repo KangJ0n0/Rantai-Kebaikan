@@ -21,12 +21,11 @@
       <div class="mt-8 flex flex-wrap justify-center gap-4">
         <a
           class="inline-block rounded bg-green-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-green-700 focus:outline-none focus:ring active:bg-green-500"
-          href="#"
+          href="#recommended-crowdfunding"
+          onclick="event.preventDefault(); document.querySelector('#recommended-crowdfunding').scrollIntoView({ behavior: 'smooth' });"
         >
           Mulai
         </a>
-
-      
       </div>
     </div>
   </div>

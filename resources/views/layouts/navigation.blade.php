@@ -104,7 +104,7 @@
     </div>
 </nav>
 
-<!-- JavaScript for toggling mobile menu -->
+
 <script>
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     const mobileMenu = document.getElementById('mobile-menu');

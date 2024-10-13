@@ -33,12 +33,7 @@
     </ol>
   </div>
   </div>
-  
-  <!--
-  Heads up! 👋
 
-  This component comes with some `rtl` classes. Please remove them if they are not needed in your project.
--->
 <div class="max-w-screen-lg mx-auto px-2 py-4 space-y-8">
 
   <h2 class="sr-only">Steps</h2>
@@ -127,14 +122,7 @@
   
   </div>
 </section>
-  <!--
-  Heads up! 👋
 
-  This component comes with some `rtl` classes. Please remove them if they are not needed in your project.
-
-  Plugins:
-    - @tailwindcss/forms
--->
 <section>
   <div class="p-8 md:p-12 lg:px-16 lg:py-24">
     <div class="mx-auto max-w-lg text-center">

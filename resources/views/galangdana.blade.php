@@ -3,12 +3,7 @@
 @section('content')
 <div class="container mx-auto px-4">
 
-    <!-- Category Filter Form -->
- <!--
-  Heads up! 👋
-  Plugins:
-    - @tailwindcss/forms
--->
+
 
 <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
